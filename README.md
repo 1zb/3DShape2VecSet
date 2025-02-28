@@ -60,6 +60,10 @@ python sample_class_cond.py \
 
 Pretrained model can be found [here](https://drive.google.com/drive/folders/1tX4pFulWqtICYgchRXmzscHDRJ5q2iSz?usp=sharing).
 
+## :scroll: Data Processing
+For data processing, please look at this repository:
+[https://github.com/1zb/sdf_gen](https://github.com/1zb/sdf_gen)
+
 ## :e-mail: Contact
 
 Contact [Biao Zhang](mailto:biao.zhang@kaust.edu.sa) ([@1zb](https://github.com/1zb)) if you have any further questions. This repository is for academic research use only.
