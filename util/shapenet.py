@@ -73,7 +73,7 @@ category_ids = {
 }
 
 class ShapeNet(data.Dataset):
-    def __init__(self, dataset_folder, split, categories=['03001627'], transform=None, sampling=True, num_samples=4096, return_surface=True, surface_sampling=True, pc_size=2048, replica=16):
+    def __init__(self, dataset_folder, split, categories=None, transform=None, sampling=True, num_samples=4096, return_surface=True, surface_sampling=True, pc_size=2048, replica=16):
         
         self.pc_size = pc_size
 
