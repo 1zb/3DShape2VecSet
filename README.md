@@ -10,6 +10,9 @@
 [Peter Wonka](http://peterwonka.net/)<sup>1</sup>,<br>
 <sup>1</sup>KAUST, <sup>2</sup>Technical University of Munich
 
+## :fire: Updates
+I will update the models in this repository [VecSetX](https://github.com/1zb/VecSetX).
+
 ## :bullettrain_front: Training
 Download the preprocessed data from [here](https://drive.google.com/drive/folders/1UFPi_UklH5clWKxxeL1IsxfjdUfc7i4x). In case that this link is inaccessable, send [me](mailto:biao.zhang@kaust.edu.sa) an email for the data. Uncompress `occupancies.zip` and `surfaces.zip` to somewhere in your hard disk. They are required in the training phase.
 
